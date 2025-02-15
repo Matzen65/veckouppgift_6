@@ -5,6 +5,9 @@
 # returnera nuvarande saldo (balance)
 # räkna ut ränta (apply_interest, lägger till räntan till kontot)
 # tala om ifall man har råd att betala en räkning (returnera True/False)
+#Gör en metod för varje funktion.
+#Skriv enhetstester för varje funktion.
+
 
 class Account:
 
